@@ -3,6 +3,7 @@
 **RESPUESTAS**
 
 **PARTE INDIVIDUAL**
+-- GIT PULL --
 1. Cree el repositorio localmente y la llame Lab01
 2. Cree el archivo README.md con el comando echo "# Lab 01" > README.md     
 3. El comando git add sirve para preparar por asi decir los cambios que se hicieron en el codigo. El comando git commit -m "mensaje" sirve para subir los cambios al repositorio y dejar un mensaje describiendo los cambios que se hicieron.
@@ -11,6 +12,5 @@
 
 
 **PARTE EN PAREJAS**
-
 
 (Prueba para hacer el pull request)
